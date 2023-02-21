@@ -1,5 +1,10 @@
 # Natural Language Processing with Disaster Tweets
 
+Link of the competition: 
+
+https://www.kaggle.com/competitions/nlp-getting-started
+
+
 This repository contains code and documentation for the Kaggle competition, Natural Language Processing with Disaster Tweets. The goal of this competition is to build a machine learning model that predicts which Tweets are about real disasters and which ones aren't. The repository contains a Jupyter notebook with the code for the model, as well as additional documentation and resources.
 
 ## Getting Started
