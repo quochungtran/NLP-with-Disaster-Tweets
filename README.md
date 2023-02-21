@@ -21,7 +21,7 @@ The repository contains the following files and folders:
 - `requirements.txt`: This file lists the Python libraries required for the project.
 - `README.md`: This file contains documentation for the project.
 
-The tests/ directory contains a suite of unit tests that ensure the correctness of the implementation. The tests cover the major methods of the DisasterTweetsClassifier class and test a variety of input and output scenarios. To run the tests, make sure you have the pytest library installed (listed in requirements.txt) and run the following command from the root directory of the project:
+The `tests/` directory contains a suite of unit tests that ensure the correctness of the implementation. The tests cover the major methods of the DisasterTweetsClassifier class and test a variety of input and output scenarios. To run the tests, make sure you have the pytest library installed (listed in requirements.txt) and run the following command from the root directory of the project:
 
 ## Dependencies
 
